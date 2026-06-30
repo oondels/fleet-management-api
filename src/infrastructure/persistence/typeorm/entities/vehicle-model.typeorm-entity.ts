@@ -19,12 +19,12 @@ export class VehicleModelTypeOrmEntity {
   @Column({ type: 'varchar', length: 50, unique: true })
   name!: string;
 
-  @Column({ name: 'brand_id', type: 'uniqueidentifier' })
-  brandId!: string;
+  @Column({ name: 'brand_id', type: 'uniqueidentifier', nullable: true })
+  brandId!: string | null;
 
-  @ManyToOne(() => VehicleBrandTypeOrmEntity, { nullable: false })
+  @ManyToOne(() => VehicleBrandTypeOrmEntity, { nullable: true })
   @JoinColumn({ name: 'brand_id' })
-  brand!: VehicleBrandTypeOrmEntity;
+  brand!: VehicleBrandTypeOrmEntity | null;
 
   @Column({ name: 'created_by', type: 'uniqueidentifier' })
   createdBy!: string;
