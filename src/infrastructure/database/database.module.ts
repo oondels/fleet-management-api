@@ -11,6 +11,5 @@ import { typeOrmConfigFactory } from './typeorm.config';
       inject: [ConfigService],
     }),
   ],
-  providers: [],
 })
 export class DatabaseModule {}
