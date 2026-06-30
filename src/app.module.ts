@@ -1,6 +1,8 @@
 import { Module } from '@nestjs/common';
 import { ConfigModule } from '@nestjs/config';
 import { envValidationSchema } from './config/env.validation';
+
+import { AppController } from './app.controller';
 import { DatabaseModule } from './infrastructure/database/database.module';
 import { VehiclesModule } from './modules/vehicles/vehicles.module';
 
@@ -13,7 +15,7 @@ import { VehiclesModule } from './modules/vehicles/vehicles.module';
     DatabaseModule,
     VehiclesModule,
   ],
-  controllers: [],
+  controllers: [AppController],
   providers: [],
 })
 export class AppModule {}
