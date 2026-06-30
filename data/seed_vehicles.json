@@ -1,0 +1,962 @@
+[
+  {
+    "license_plate": "YWG8Y19",
+    "chassis": "5KYXF2U2UALA754LB",
+    "renavam": "89040771452",
+    "year": 2025,
+    "brand": "Ford",
+    "model": "EcoSport"
+  },
+  {
+    "license_plate": "PZY3W39",
+    "chassis": "YRUDHMWHHCXH65CHZ",
+    "renavam": "21954781044",
+    "year": 2019,
+    "brand": "Chery",
+    "model": "Tiggo 7"
+  },
+  {
+    "license_plate": "WBQ1B43",
+    "chassis": "5JGRPKJ7R5VB94875",
+    "renavam": "14240392744",
+    "year": 2023,
+    "brand": "BMW",
+    "model": "M3"
+  },
+  {
+    "license_plate": "ZOS2G29",
+    "chassis": "WU1BWT5F8CGWZHD6J",
+    "renavam": "56455927236",
+    "year": 2016,
+    "brand": "Volvo",
+    "model": "V60"
+  },
+  {
+    "license_plate": "LYY0O65",
+    "chassis": "DUTEMCJKRUK93UZV7",
+    "renavam": "18287122368",
+    "year": 2020,
+    "brand": "Ford",
+    "model": "Ranger"
+  },
+  {
+    "license_plate": "MXV1U42",
+    "chassis": "A2YJ1VRAC66V4WEEL",
+    "renavam": "87882217846",
+    "year": 2014,
+    "brand": "Hyundai",
+    "model": "Creta"
+  },
+  {
+    "license_plate": "YGE2N07",
+    "chassis": "L7353J2D55H3SL3HA",
+    "renavam": "13892639591",
+    "year": 2016,
+    "brand": "Chevrolet",
+    "model": "Spin"
+  },
+  {
+    "license_plate": "EZG1T47",
+    "chassis": "LXTNWJ0A7U01ZNCYL",
+    "renavam": "38733442149",
+    "year": 2022,
+    "brand": "Honda",
+    "model": "City"
+  },
+  {
+    "license_plate": "TEO6R83",
+    "chassis": "G2XLRZT381YKYXD8H",
+    "renavam": "38109674857",
+    "year": 2018,
+    "brand": "Audi",
+    "model": "Q7"
+  },
+  {
+    "license_plate": "MGR0Y88",
+    "chassis": "2H3ZSV7EESUVL1R36",
+    "renavam": "49418478274",
+    "year": 2015,
+    "brand": "Mercedes-Benz",
+    "model": "C 200"
+  },
+  {
+    "license_plate": "HCH4K35",
+    "chassis": "EHZ0CPUPGP6WZ52NA",
+    "renavam": "37894756224",
+    "year": 2012,
+    "brand": "Peugeot",
+    "model": "208"
+  },
+  {
+    "license_plate": "KRU2O99",
+    "chassis": "U6WYCR5FJLSM6K8P4",
+    "renavam": "47092090028",
+    "year": 2021,
+    "brand": "Kia",
+    "model": "Sportage"
+  },
+  {
+    "license_plate": "DDR9G42",
+    "chassis": "NW802FLW7W6N8GW4J",
+    "renavam": "63687505606",
+    "year": 2012,
+    "brand": "Volkswagen",
+    "model": "Gol"
+  },
+  {
+    "license_plate": "WVC5U84",
+    "chassis": "FFUYX72S4WLJ7KR1V",
+    "renavam": "63434322585",
+    "year": 2020,
+    "brand": "Porsche",
+    "model": "Cayenne"
+  },
+  {
+    "license_plate": "YCS7R76",
+    "chassis": "YT3DHZLWSUR1L0JJD",
+    "renavam": "11571247952",
+    "year": 2013,
+    "brand": "Audi",
+    "model": "e-tron"
+  },
+  {
+    "license_plate": "VHJ4A71",
+    "chassis": "BBK8Y1DAKSM8J5DCT",
+    "renavam": "56189025456",
+    "year": 2024,
+    "brand": "Hyundai",
+    "model": "Azera"
+  },
+  {
+    "license_plate": "NLL9N36",
+    "chassis": "X18GGYFFCARWKH00R",
+    "renavam": "69766945698",
+    "year": 2013,
+    "brand": "Renault",
+    "model": "Megane"
+  },
+  {
+    "license_plate": "BUP9J44",
+    "chassis": "LPJURW61WAHZ5WA24",
+    "renavam": "57154294894",
+    "year": 2018,
+    "brand": "Tesla",
+    "model": "Model Y"
+  },
+  {
+    "license_plate": "IRW5N62",
+    "chassis": "83VSLL9PT9YUPGM1X",
+    "renavam": "72594619621",
+    "year": 2020,
+    "brand": "GWM",
+    "model": "Poer"
+  },
+  {
+    "license_plate": "AKF1O96",
+    "chassis": "F7K0PSSSEGW1EC25M",
+    "renavam": "72078568443",
+    "year": 2024,
+    "brand": "Kia",
+    "model": "Picanto"
+  },
+  {
+    "license_plate": "OLI3W23",
+    "chassis": "5PLS7N93YF8E8LD4D",
+    "renavam": "90189072630",
+    "year": 2017,
+    "brand": "Volkswagen",
+    "model": "Virtus"
+  },
+  {
+    "license_plate": "WWJ5U77",
+    "chassis": "5BCX791RDX5RZ6B3K",
+    "renavam": "31557108629",
+    "year": 2014,
+    "brand": "BYD",
+    "model": "Dolphin"
+  },
+  {
+    "license_plate": "GQL0Z42",
+    "chassis": "VC89K8ZSK95DNMK0A",
+    "renavam": "83087997897",
+    "year": 2015,
+    "brand": "Jeep",
+    "model": "Wrangler"
+  },
+  {
+    "license_plate": "PJQ9I67",
+    "chassis": "Y4X6YLRW1CK1FEU9U",
+    "renavam": "98284873191",
+    "year": 2015,
+    "brand": "Peugeot",
+    "model": "Expert"
+  },
+  {
+    "license_plate": "WSZ8L03",
+    "chassis": "JEN1JNYNZSX8LXYXS",
+    "renavam": "76100912533",
+    "year": 2023,
+    "brand": "Audi",
+    "model": "Q5"
+  },
+  {
+    "license_plate": "SOP2N68",
+    "chassis": "X7KZHRHM9N6YBK884",
+    "renavam": "02690397285",
+    "year": 2021,
+    "brand": "BYD",
+    "model": "Song Plus"
+  },
+  {
+    "license_plate": "FWI2Z90",
+    "chassis": "5EEJFYAA3HLFB1U1S",
+    "renavam": "75159078549",
+    "year": 2012,
+    "brand": "Mitsubishi",
+    "model": "Pajero"
+  },
+  {
+    "license_plate": "ZWL1P74",
+    "chassis": "6LEEXW0NWKTR3DY5V",
+    "renavam": "84848373329",
+    "year": 2022,
+    "brand": "Volkswagen",
+    "model": "Nivus"
+  },
+  {
+    "license_plate": "XBV1N07",
+    "chassis": "3VWVLEMY1508WMWHY",
+    "renavam": "21837588986",
+    "year": 2022,
+    "brand": "Hyundai",
+    "model": "Tucson"
+  },
+  {
+    "license_plate": "OPR4A17",
+    "chassis": "LMA5VPEXB1HPMN02V",
+    "renavam": "00166264427",
+    "year": 2013,
+    "brand": "GWM",
+    "model": "Haval H6"
+  },
+  {
+    "license_plate": "ICR9P53",
+    "chassis": "H9BG822KDTREUHVZM",
+    "renavam": "37440344624",
+    "year": 2017,
+    "brand": "BMW",
+    "model": "X1"
+  },
+  {
+    "license_plate": "EYL5C41",
+    "chassis": "RPC51H2CXUG2M8YED",
+    "renavam": "21170964556",
+    "year": 2026,
+    "brand": "BMW",
+    "model": "118i"
+  },
+  {
+    "license_plate": "OQQ5E44",
+    "chassis": "X3WMCSBNKY9CWNW81",
+    "renavam": "09516594889",
+    "year": 2013,
+    "brand": "Subaru",
+    "model": "Forester"
+  },
+  {
+    "license_plate": "NEG7O56",
+    "chassis": "N7N2ZBXMLVNJ58WEC",
+    "renavam": "69366170563",
+    "year": 2014,
+    "brand": "Honda",
+    "model": "HR-V"
+  },
+  {
+    "license_plate": "RVT8C64",
+    "chassis": "MMFH8THEC4D246BM2",
+    "renavam": "13187814462",
+    "year": 2019,
+    "brand": "Land Rover",
+    "model": "Discovery"
+  },
+  {
+    "license_plate": "PTU3R29",
+    "chassis": "26GZVR22TPFGW5BSN",
+    "renavam": "97510145809",
+    "year": 2025,
+    "brand": "Fiat",
+    "model": "Toro"
+  },
+  {
+    "license_plate": "LJA0M52",
+    "chassis": "9NA74Y3EK4ZE0RACJ",
+    "renavam": "85751230474",
+    "year": 2013,
+    "brand": "Land Rover",
+    "model": "Defender"
+  },
+  {
+    "license_plate": "VMN8S21",
+    "chassis": "RXHPYC9CUT9VNSX9J",
+    "renavam": "07376773058",
+    "year": 2014,
+    "brand": "Chery",
+    "model": "Tiggo 5X"
+  },
+  {
+    "license_plate": "VRZ7U11",
+    "chassis": "08BG36LLP3SBYK5BY",
+    "renavam": "27444931637",
+    "year": 2016,
+    "brand": "BYD",
+    "model": "Han"
+  },
+  {
+    "license_plate": "USC9F53",
+    "chassis": "CYLWRZMB5M9K98CYM",
+    "renavam": "86916700733",
+    "year": 2021,
+    "brand": "Tesla",
+    "model": "Model X"
+  },
+  {
+    "license_plate": "ADL5L40",
+    "chassis": "ENLK8AGU7D20HXZ9G",
+    "renavam": "10179899675",
+    "year": 2016,
+    "brand": "BYD",
+    "model": "Tan"
+  },
+  {
+    "license_plate": "XWS2Z32",
+    "chassis": "93HTMVS9E6CP0SPPV",
+    "renavam": "13045185571",
+    "year": 2020,
+    "brand": "Mitsubishi",
+    "model": "Outlander"
+  },
+  {
+    "license_plate": "XBD2J13",
+    "chassis": "0M864JXVEKUTF8FY0",
+    "renavam": "68580065674",
+    "year": 2022,
+    "brand": "BMW",
+    "model": "X3"
+  },
+  {
+    "license_plate": "AXO4P28",
+    "chassis": "PRZFPSME5L9MP2TDH",
+    "renavam": "14109849989",
+    "year": 2023,
+    "brand": "Kia",
+    "model": "Stonic"
+  },
+  {
+    "license_plate": "ITM8O43",
+    "chassis": "A8T8HMBT6YSU4R612",
+    "renavam": "34515057296",
+    "year": 2013,
+    "brand": "Mercedes-Benz",
+    "model": "E 250"
+  },
+  {
+    "license_plate": "DCJ5R97",
+    "chassis": "GTTBELSSXULXF91KM",
+    "renavam": "85728369577",
+    "year": 2023,
+    "brand": "Chery",
+    "model": "Tiggo 2"
+  },
+  {
+    "license_plate": "QPG9S20",
+    "chassis": "SU02N4HV0GRPPGTXS",
+    "renavam": "87755943945",
+    "year": 2020,
+    "brand": "Chevrolet",
+    "model": "Onix Plus"
+  },
+  {
+    "license_plate": "JUS4T49",
+    "chassis": "KK8920ZTSV70KVU6P",
+    "renavam": "37109096728",
+    "year": 2016,
+    "brand": "Citroën",
+    "model": "C3"
+  },
+  {
+    "license_plate": "YSD9X52",
+    "chassis": "ZUYBP0D2AV7P75SG8",
+    "renavam": "36905579918",
+    "year": 2014,
+    "brand": "Ford",
+    "model": "Focus"
+  },
+  {
+    "license_plate": "YAV7F99",
+    "chassis": "75AVD9K9UT75SGDFS",
+    "renavam": "21775718885",
+    "year": 2013,
+    "brand": "Jeep",
+    "model": "Commander"
+  },
+  {
+    "license_plate": "KCZ7K90",
+    "chassis": "NRJLWVJMHZSFZ762Z",
+    "renavam": "69329449379",
+    "year": 2024,
+    "brand": "Nissan",
+    "model": "X-Trail"
+  },
+  {
+    "license_plate": "NRF3V78",
+    "chassis": "CR0CVCVTVELUDGWDT",
+    "renavam": "84540487387",
+    "year": 2021,
+    "brand": "Peugeot",
+    "model": "5008"
+  },
+  {
+    "license_plate": "BLS8B90",
+    "chassis": "7BP229YP9N56NZYUY",
+    "renavam": "31557200265",
+    "year": 2020,
+    "brand": "Ford",
+    "model": "Territory"
+  },
+  {
+    "license_plate": "JFL2I18",
+    "chassis": "2BYX76HCWRZ5JBRU1",
+    "renavam": "71929557828",
+    "year": 2022,
+    "brand": "Subaru",
+    "model": "Impreza"
+  },
+  {
+    "license_plate": "NKH8S89",
+    "chassis": "XRT98Z2LPEN1S5K03",
+    "renavam": "95951226980",
+    "year": 2023,
+    "brand": "Nissan",
+    "model": "Leaf"
+  },
+  {
+    "license_plate": "VBJ9T00",
+    "chassis": "3WZHG6L6GG1117Z0P",
+    "renavam": "23246338487",
+    "year": 2024,
+    "brand": "Citroën",
+    "model": "Berlingo"
+  },
+  {
+    "license_plate": "VXJ6B52",
+    "chassis": "EJ7WPFLN4TYZJ48YT",
+    "renavam": "17174956008",
+    "year": 2025,
+    "brand": "Hyundai",
+    "model": "HB20"
+  },
+  {
+    "license_plate": "RTK3C70",
+    "chassis": "TNXZXSTAVAUK9A3Z3",
+    "renavam": "91011582334",
+    "year": 2021,
+    "brand": "Tesla",
+    "model": "Model 3"
+  },
+  {
+    "license_plate": "GSH1U96",
+    "chassis": "BPNSY0C4YL9967H6Z",
+    "renavam": "52962561802",
+    "year": 2014,
+    "brand": "Ford",
+    "model": "Fiesta"
+  },
+  {
+    "license_plate": "TSK1J12",
+    "chassis": "4N6L1E90T9BR4M28P",
+    "renavam": "70294394660",
+    "year": 2021,
+    "brand": "Chevrolet",
+    "model": "Tracker"
+  },
+  {
+    "license_plate": "HGB4E37",
+    "chassis": "FNMD8R2DCRVTDCVW2",
+    "renavam": "80477592561",
+    "year": 2016,
+    "brand": "Toyota",
+    "model": "Hilux"
+  },
+  {
+    "license_plate": "HMB6I44",
+    "chassis": "CJJXWGDL8LX3LM359",
+    "renavam": "13923992645",
+    "year": 2015,
+    "brand": "Chery",
+    "model": "Tiggo 8"
+  },
+  {
+    "license_plate": "IHU5D91",
+    "chassis": "9F2A08G34C43ZEKJF",
+    "renavam": "43455598409",
+    "year": 2023,
+    "brand": "Jeep",
+    "model": "Compass"
+  },
+  {
+    "license_plate": "XNQ1D76",
+    "chassis": "MYB9ZP18RAJTUWVRN",
+    "renavam": "75530149191",
+    "year": 2016,
+    "brand": "Volkswagen",
+    "model": "T-Cross"
+  },
+  {
+    "license_plate": "IUN5P07",
+    "chassis": "RCB0AMD371UVLRS3X",
+    "renavam": "16378440227",
+    "year": 2024,
+    "brand": "Kia",
+    "model": "Cerato"
+  },
+  {
+    "license_plate": "BCW2L34",
+    "chassis": "J5UYWXWM4X30KXCED",
+    "renavam": "31654131666",
+    "year": 2014,
+    "brand": "Porsche",
+    "model": "Macan"
+  },
+  {
+    "license_plate": "OMD5O68",
+    "chassis": "8SGNVYPT0RFV3HBHK",
+    "renavam": "75745525957",
+    "year": 2024,
+    "brand": "Hyundai",
+    "model": "Elantra"
+  },
+  {
+    "license_plate": "SOZ1X87",
+    "chassis": "K9RM3R92H3WM0XFEG",
+    "renavam": "20325372289",
+    "year": 2022,
+    "brand": "Subaru",
+    "model": "WRX"
+  },
+  {
+    "license_plate": "VDT6B98",
+    "chassis": "E5J042ZTWJPRX6DUK",
+    "renavam": "93930777463",
+    "year": 2013,
+    "brand": "Citroën",
+    "model": "C4 Cactus"
+  },
+  {
+    "license_plate": "UKZ3P28",
+    "chassis": "MWVTMZBD2SE5RA8GZ",
+    "renavam": "16192623913",
+    "year": 2016,
+    "brand": "Mitsubishi",
+    "model": "Eclipse Cross"
+  },
+  {
+    "license_plate": "STL1W02",
+    "chassis": "CWURAMD5ZSHC3DNKN",
+    "renavam": "88660561327",
+    "year": 2026,
+    "brand": "Chery",
+    "model": "Arrizo 6"
+  },
+  {
+    "license_plate": "KRW1D11",
+    "chassis": "1MR3JYJW0K8A45GXG",
+    "renavam": "36772326080",
+    "year": 2017,
+    "brand": "Mercedes-Benz",
+    "model": "A 200"
+  },
+  {
+    "license_plate": "YDW9N36",
+    "chassis": "282ACJBB3TXTP0CUX",
+    "renavam": "23528536860",
+    "year": 2023,
+    "brand": "Honda",
+    "model": "Civic"
+  },
+  {
+    "license_plate": "LYG3C91",
+    "chassis": "XBYYFAEATMU4JN151",
+    "renavam": "18345296450",
+    "year": 2025,
+    "brand": "Mercedes-Benz",
+    "model": "Sprinter"
+  },
+  {
+    "license_plate": "OJG1S61",
+    "chassis": "1A5ABN7F8B30YHJ7L",
+    "renavam": "85160250488",
+    "year": 2024,
+    "brand": "Chevrolet",
+    "model": "Trailblazer"
+  },
+  {
+    "license_plate": "VIO0L25",
+    "chassis": "LXSWT2G62JAPHM458",
+    "renavam": "06871524097",
+    "year": 2013,
+    "brand": "Fiat",
+    "model": "Argo"
+  },
+  {
+    "license_plate": "BGV6W84",
+    "chassis": "1WTYPWCYEK57N4LRH",
+    "renavam": "91711431374",
+    "year": 2019,
+    "brand": "Honda",
+    "model": "CR-V"
+  },
+  {
+    "license_plate": "GDE4W60",
+    "chassis": "4LDJMTZJ9BPR1JS3E",
+    "renavam": "08918366528",
+    "year": 2012,
+    "brand": "Porsche",
+    "model": "Panamera"
+  },
+  {
+    "license_plate": "ZFQ2C98",
+    "chassis": "LBSFV4PAZFHGK6BXJ",
+    "renavam": "24502118568",
+    "year": 2024,
+    "brand": "GWM",
+    "model": "Tank 300"
+  },
+  {
+    "license_plate": "AJS7R73",
+    "chassis": "VLJAWA3K3SMWHFJHU",
+    "renavam": "77795939912",
+    "year": 2017,
+    "brand": "Renault",
+    "model": "Captur"
+  },
+  {
+    "license_plate": "USX0W79",
+    "chassis": "VVG96TLTCHHUA7GE0",
+    "renavam": "98305978893",
+    "year": 2022,
+    "brand": "Chevrolet",
+    "model": "S10"
+  },
+  {
+    "license_plate": "KCH2F74",
+    "chassis": "YTL0V6XMY3N1KFA0V",
+    "renavam": "87513866143",
+    "year": 2013,
+    "brand": "Tesla",
+    "model": "Model S"
+  },
+  {
+    "license_plate": "GZE1W67",
+    "chassis": "MAGZM20BRPFP6MN43",
+    "renavam": "57247002138",
+    "year": 2014,
+    "brand": "Mitsubishi",
+    "model": "ASX"
+  },
+  {
+    "license_plate": "TOX1K56",
+    "chassis": "SB8F6FDGG001JKHBV",
+    "renavam": "81342661012",
+    "year": 2013,
+    "brand": "Audi",
+    "model": "A3"
+  },
+  {
+    "license_plate": "MDU7P82",
+    "chassis": "YNNNGBRJ4VEZDZ3P1",
+    "renavam": "20359695223",
+    "year": 2025,
+    "brand": "BYD",
+    "model": "Dolphin Mini"
+  },
+  {
+    "license_plate": "SNX9V91",
+    "chassis": "8R8FGGBCZG4EWL03C",
+    "renavam": "55859075711",
+    "year": 2021,
+    "brand": "Audi",
+    "model": "Q3"
+  },
+  {
+    "license_plate": "PTY1S77",
+    "chassis": "565JYVSFPXZPP6ZBS",
+    "renavam": "23373886923",
+    "year": 2023,
+    "brand": "Volvo",
+    "model": "XC90"
+  },
+  {
+    "license_plate": "LVH6T61",
+    "chassis": "G41254UFLTE56AG44",
+    "renavam": "24972856103",
+    "year": 2021,
+    "brand": "BMW",
+    "model": "330i"
+  },
+  {
+    "license_plate": "LYM8L38",
+    "chassis": "J4CAB52HHHGYT58ZS",
+    "renavam": "11826977288",
+    "year": 2019,
+    "brand": "Mercedes-Benz",
+    "model": "GLA 200"
+  },
+  {
+    "license_plate": "GMR9M50",
+    "chassis": "984VWKZSMKLKY8YGU",
+    "renavam": "20884310429",
+    "year": 2018,
+    "brand": "Mercedes-Benz",
+    "model": "C 180"
+  },
+  {
+    "license_plate": "KAS9G37",
+    "chassis": "ZYS8MKFYVKS10V786",
+    "renavam": "62284835410",
+    "year": 2022,
+    "brand": "Honda",
+    "model": "Fit"
+  },
+  {
+    "license_plate": "PYB3Q16",
+    "chassis": "UP5E9M969E5FCL9LB",
+    "renavam": "42751771444",
+    "year": 2019,
+    "brand": "Mitsubishi",
+    "model": "L200 Triton"
+  },
+  {
+    "license_plate": "JAF5A87",
+    "chassis": "UAA1H5LDTLCB8SUUR",
+    "renavam": "61947198029",
+    "year": 2015,
+    "brand": "Volvo",
+    "model": "XC40"
+  },
+  {
+    "license_plate": "TPE5W60",
+    "chassis": "5JUB9YYAZPNVSFZXK",
+    "renavam": "66261817111",
+    "year": 2015,
+    "brand": "Land Rover",
+    "model": "Range Rover Sport"
+  },
+  {
+    "license_plate": "PUV3L72",
+    "chassis": "BTG7LAZ64ZECT0DJH",
+    "renavam": "92401028370",
+    "year": 2024,
+    "brand": "Kia",
+    "model": "Carnival"
+  },
+  {
+    "license_plate": "XAD2K34",
+    "chassis": "X5D3GP8JN53Y3DZB8",
+    "renavam": "14586133068",
+    "year": 2026,
+    "brand": "Toyota",
+    "model": "Yaris"
+  },
+  {
+    "license_plate": "DXC6O02",
+    "chassis": "L0Z2WV9ZMU0DYJMZN",
+    "renavam": "85906188804",
+    "year": 2015,
+    "brand": "Peugeot",
+    "model": "Partner"
+  },
+  {
+    "license_plate": "IHN8U38",
+    "chassis": "CRVCTL91APBV438Y6",
+    "renavam": "56438883757",
+    "year": 2017,
+    "brand": "Renault",
+    "model": "Duster"
+  },
+  {
+    "license_plate": "SCT3A38",
+    "chassis": "8KU0BFE00DXG7NS20",
+    "renavam": "14985746914",
+    "year": 2020,
+    "brand": "Citroën",
+    "model": "Jumpy"
+  },
+  {
+    "license_plate": "TOL9P97",
+    "chassis": "7ZF3DYXL6PXZJPMK3",
+    "renavam": "16858537522",
+    "year": 2023,
+    "brand": "Mitsubishi",
+    "model": "Lancer"
+  },
+  {
+    "license_plate": "HIR2Q56",
+    "chassis": "02VW80Z6U5PADNBBJ",
+    "renavam": "79610725346",
+    "year": 2022,
+    "brand": "Hyundai",
+    "model": "HB20S"
+  },
+  {
+    "license_plate": "TWT8M27",
+    "chassis": "3KY7N89LVAJX25470",
+    "renavam": "67567921611",
+    "year": 2020,
+    "brand": "Subaru",
+    "model": "Outback"
+  },
+  {
+    "license_plate": "DBH4E18",
+    "chassis": "AS7B7W2X4K3VC0U8U",
+    "renavam": "71543863296",
+    "year": 2019,
+    "brand": "Fiat",
+    "model": "Cronos"
+  },
+  {
+    "license_plate": "ZVZ0D64",
+    "chassis": "6XX8ZL78NUK74N3RB",
+    "renavam": "81591950067",
+    "year": 2025,
+    "brand": "Volvo",
+    "model": "S60"
+  },
+  {
+    "license_plate": "RVF6U80",
+    "chassis": "ZA0BCFJC47PRPLNDA",
+    "renavam": "70708352662",
+    "year": 2026,
+    "brand": "Chevrolet",
+    "model": "Onix"
+  },
+  {
+    "license_plate": "LKR7F51",
+    "chassis": "N3V8EZ731N8VVEAWU",
+    "renavam": "93793465128",
+    "year": 2015,
+    "brand": "Ford",
+    "model": "Mustang"
+  },
+  {
+    "license_plate": "CRO0Y99",
+    "chassis": "SVKCD0TLEYDX6LRXL",
+    "renavam": "55334022748",
+    "year": 2014,
+    "brand": "Nissan",
+    "model": "Sentra"
+  },
+  {
+    "license_plate": "RIM7L74",
+    "chassis": "DYCK46G1X165X3W2H",
+    "renavam": "02856138581",
+    "year": 2020,
+    "brand": "BMW",
+    "model": "320i"
+  },
+  {
+    "license_plate": "NKN3Z96",
+    "chassis": "1EFVV5E17B2HJHZU3",
+    "renavam": "39806196275",
+    "year": 2021,
+    "brand": "Volkswagen",
+    "model": "Taos"
+  },
+  {
+    "license_plate": "EQJ1Q29",
+    "chassis": "HP3M36A6RHTKEFW3Y",
+    "renavam": "43164564215",
+    "year": 2014,
+    "brand": "Mercedes-Benz",
+    "model": "GLC 300"
+  },
+  {
+    "license_plate": "QBO0F21",
+    "chassis": "8WVA0YKCR95F4W34G",
+    "renavam": "62734523128",
+    "year": 2020,
+    "brand": "Honda",
+    "model": "WR-V"
+  },
+  {
+    "license_plate": "RVP2P95",
+    "chassis": "5U1DY6UA7ZRP50R7S",
+    "renavam": "73898542790",
+    "year": 2021,
+    "brand": "Citroën",
+    "model": "Aircross"
+  },
+  {
+    "license_plate": "WKE0S55",
+    "chassis": "NG3PDRWJUVX9PGVVF",
+    "renavam": "54957318127",
+    "year": 2014,
+    "brand": "Renault",
+    "model": "Sandero"
+  },
+  {
+    "license_plate": "CNU8T67",
+    "chassis": "F8ADE7RCHCBN9XU0W",
+    "renavam": "98642682055",
+    "year": 2015,
+    "brand": "Porsche",
+    "model": "911"
+  },
+  {
+    "license_plate": "PRJ0F02",
+    "chassis": "PZPGA07V0VWM3H8SP",
+    "renavam": "01555315257",
+    "year": 2016,
+    "brand": "Renault",
+    "model": "Logan"
+  },
+  {
+    "license_plate": "SZO3Y37",
+    "chassis": "Z65SJN3H03PMU0JKP",
+    "renavam": "73513251791",
+    "year": 2023,
+    "brand": "Fiat",
+    "model": "Fastback"
+  },
+  {
+    "license_plate": "FTW3H22",
+    "chassis": "XFD7ZYX2UBSXT965T",
+    "renavam": "99225074553",
+    "year": 2022,
+    "brand": "Renault",
+    "model": "Oroch"
+  },
+  {
+    "license_plate": "ULD8O30",
+    "chassis": "ZNDM5GJJ8MGPP1NPR",
+    "renavam": "59687858187",
+    "year": 2019,
+    "brand": "Fiat",
+    "model": "Pulse"
+  },
+  {
+    "license_plate": "UEM8R77",
+    "chassis": "KVVPZB3SXRMMV7JAE",
+    "renavam": "89156173647",
+    "year": 2026,
+    "brand": "Fiat",
+    "model": "Strada"
+  },
+  {
+    "license_plate": "CPM2F69",
+    "chassis": "PXP6CMLY0WP6271UR",
+    "renavam": "18122772309",
+    "year": 2019,
+    "brand": "BYD",
+    "model": "Seal"
+  }
+]
