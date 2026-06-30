@@ -10,7 +10,7 @@ import {
 
 import { UserTypeOrmEntity } from './user.typeorm-entity';
 
-@Entity('vehicle_brands')
+@Entity('brands')
 export class VehicleBrandTypeOrmEntity {
   @PrimaryGeneratedColumn('uuid')
   id!: string;

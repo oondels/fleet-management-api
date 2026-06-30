@@ -10,6 +10,5 @@ export interface VehicleRepository {
   findByLicensePlate(licensePlate: string): Promise<Vehicle | null>;
   findByChassis(chassis: string): Promise<Vehicle | null>;
   findByRenavam(renavam: string): Promise<Vehicle | null>;
-  findByBrandId(brandId: string): Promise<Vehicle[]>;
   delete(id: string): Promise<void>;
 }

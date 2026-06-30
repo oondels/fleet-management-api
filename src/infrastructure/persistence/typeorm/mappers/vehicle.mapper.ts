@@ -10,7 +10,6 @@ export class VehicleMapper {
       renavam: entity.renavam,
       year: entity.year,
       modelId: entity.modelId,
-      brandId: entity.brandId,
       createdBy: entity.createdBy,
       createdAt: entity.createdAt,
       updatedAt: entity.updatedAt,
@@ -25,7 +24,6 @@ export class VehicleMapper {
     entity.renavam = vehicle.renavam;
     entity.year = vehicle.year;
     entity.modelId = vehicle.modelId;
-    entity.brandId = vehicle.brandId;
     entity.createdBy = vehicle.createdBy;
     entity.createdAt = vehicle.createdAt;
     entity.updatedAt = vehicle.updatedAt;

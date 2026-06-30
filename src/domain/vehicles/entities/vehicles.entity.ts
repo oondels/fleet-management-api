@@ -7,7 +7,6 @@ type VehicleProps = {
   renavam: string;
   year: number;
   modelId: string;
-  brandId: string;
   createdBy: string;
   createdAt: Date;
   updatedAt: Date;
@@ -19,7 +18,6 @@ type CreateVehicleProps = {
   renavam: string;
   year: number;
   modelId: string;
-  brandId: string;
   createdBy: string;
 };
 
@@ -36,7 +34,6 @@ export class Vehicle {
       renavam: props.renavam,
       year: props.year,
       modelId: props.modelId,
-      brandId: props.brandId,
       createdBy: props.createdBy,
       createdAt: now,
       updatedAt: now,
@@ -106,10 +103,6 @@ export class Vehicle {
     return this.props.modelId;
   }
 
-  get brandId(): string {
-    return this.props.brandId;
-  }
-
   get createdBy(): string {
     return this.props.createdBy;
   }
@@ -130,7 +123,6 @@ export class Vehicle {
       renavam: this.renavam,
       year: this.year,
       modelId: this.modelId,
-      brandId: this.brandId,
       createdBy: this.createdBy,
       createdAt: this.createdAt,
       updatedAt: this.updatedAt,

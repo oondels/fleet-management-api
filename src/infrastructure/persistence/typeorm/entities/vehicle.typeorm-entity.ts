@@ -10,7 +10,6 @@ import {
 
 import { VehicleModelTypeOrmEntity } from './vehicle-model.typeorm-entity';
 import { UserTypeOrmEntity } from './user.typeorm-entity';
-import { VehicleBrandTypeOrmEntity } from './vehicle-brand.typeorm-entity';
 
 @Entity('vehicles')
 export class VehicleTypeOrmEntity {
@@ -35,13 +34,6 @@ export class VehicleTypeOrmEntity {
   @ManyToOne(() => VehicleModelTypeOrmEntity, { nullable: false })
   @JoinColumn({ name: 'model_id' })
   model!: VehicleModelTypeOrmEntity;
-
-  @Column({ name: 'brand_id', type: 'uniqueidentifier' })
-  brandId!: string;
-
-  @ManyToOne(() => VehicleBrandTypeOrmEntity, { nullable: false })
-  @JoinColumn({ name: 'brand_id' })
-  brand!: VehicleBrandTypeOrmEntity;
 
   @Column({ name: 'created_by', type: 'uniqueidentifier' })
   createdBy!: string;

@@ -32,7 +32,6 @@ export class TypeOrmVehicleRepository implements VehicleRepository {
     const vehicles = await this.vehicleRepository.find({
       relations: {
         model: true,
-        brand: true,
         createdByUser: true,
       },
       order: { createdAt: 'DESC' },
@@ -45,7 +44,6 @@ export class TypeOrmVehicleRepository implements VehicleRepository {
       where: { id },
       relations: {
         model: true,
-        brand: true,
         createdByUser: true,
       },
     });
@@ -57,7 +55,6 @@ export class TypeOrmVehicleRepository implements VehicleRepository {
       where: { licensePlate },
       relations: {
         model: true,
-        brand: true,
         createdByUser: true,
       },
     });
@@ -69,7 +66,6 @@ export class TypeOrmVehicleRepository implements VehicleRepository {
       where: { chassis },
       relations: {
         model: true,
-        brand: true,
         createdByUser: true,
       },
     });
@@ -81,23 +77,10 @@ export class TypeOrmVehicleRepository implements VehicleRepository {
       where: { renavam },
       relations: {
         model: true,
-        brand: true,
         createdByUser: true,
       },
     });
     return vehicle ? VehicleMapper.toDomain(vehicle) : null;
-  }
-
-  async findByBrandId(brandId: string): Promise<Vehicle[]> {
-    const vehicles = await this.vehicleRepository.find({
-      where: { brandId },
-      relations: {
-        model: true,
-        brand: true,
-        createdByUser: true,
-      },
-    });
-    return vehicles.map((vehicle) => VehicleMapper.toDomain(vehicle));
   }
 
   async delete(id: string): Promise<void> {
