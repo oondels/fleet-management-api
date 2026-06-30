@@ -1,5 +1,6 @@
 import { Module } from '@nestjs/common';
 import { TypeOrmModule } from '@nestjs/typeorm';
+import { ConfigService } from '@nestjs/config';
 
 import { typeOrmConfigFactory } from './typeorm.config';
 
@@ -7,8 +8,9 @@ import { typeOrmConfigFactory } from './typeorm.config';
   imports: [
     TypeOrmModule.forRootAsync({
       useFactory: typeOrmConfigFactory,
-      inject: [],
+      inject: [ConfigService],
     }),
   ],
+  providers: [],
 })
 export class DatabaseModule {}
