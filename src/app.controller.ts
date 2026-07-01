@@ -7,8 +7,7 @@ export class AppController {
     return {
       name: 'Fleet Management API',
       status: 'running',
-      docs: 'Leia README.md',
-      apiDocs: 'Consultar documentação em /api',
+      docs: 'Consultar documentação em /api',
       version: '1.0.0',
     };
   }
