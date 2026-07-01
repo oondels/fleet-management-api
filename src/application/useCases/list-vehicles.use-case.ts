@@ -1,4 +1,5 @@
 import { Inject, Injectable } from '@nestjs/common';
+import { ListVehiclesInput } from 'src/domain/vehicles/repositories/vehicle.repository';
 
 import {
   VEHICLE_REPOSITORY,
@@ -12,7 +13,7 @@ export class ListVehiclesUseCase {
     private readonly vehicleRepository: VehicleRepository,
   ) {}
 
-  execute() {
-    return this.vehicleRepository.findAll();
+  execute(input: ListVehiclesInput) {
+    return this.vehicleRepository.findAll(input);
   }
 }

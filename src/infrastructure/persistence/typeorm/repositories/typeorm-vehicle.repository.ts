@@ -1,8 +1,8 @@
 import { Injectable } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
-import { Repository } from 'typeorm';
+import { FindManyOptions, FindOptionsWhere, Repository } from 'typeorm';
 
-import { VehicleRepository } from 'src/domain/vehicles/repositories/vehicle.repository';
+import { VehicleRepository, ListVehiclesInput } from 'src/domain/vehicles/repositories/vehicle.repository';
 import { Vehicle } from 'src/domain/vehicles/entities/vehicles.entity';
 import { VehicleTypeOrmEntity } from '../entities/vehicle.typeorm-entity';
 import { VehicleMapper } from '../mappers/vehicle.mapper';
@@ -28,14 +28,29 @@ export class TypeOrmVehicleRepository implements VehicleRepository {
     return VehicleMapper.toDomain(updatedVehicle);
   }
 
-  async findAll(): Promise<Vehicle[]> {
-    const vehicles = await this.vehicleRepository.find({
+  async findAll(input: ListVehiclesInput): Promise<Vehicle[]> {
+    const where: FindOptionsWhere<VehicleTypeOrmEntity> = {};
+
+    if (input.year) {
+      where.year = input.year;
+    }
+
+    if (input.createdBy) {
+      where.createdBy = input.createdBy;
+    }
+
+    const findOptions: FindManyOptions<VehicleTypeOrmEntity> = {
+      where,
       relations: {
         model: true,
         createdByUser: true,
       },
       order: { createdAt: 'DESC' },
-    });
+      skip: (input.page - 1) * input.limit,
+      take: input.limit,
+    };
+
+    const vehicles = await this.vehicleRepository.find(findOptions);
     return vehicles.map((vehicle) => VehicleMapper.toDomain(vehicle));
   }
 
